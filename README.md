@@ -8,4 +8,4 @@ The website implements:
 - Form validation:mailbox_with_no_mail:
 - Open Graph and Favicon:star:
 
-## if you want to look at the site, [click here](olexioio.github.io/coffeShop/).
+## if you want to look at the site, [click here](https://olexioio.github.io/coffeShop/).
